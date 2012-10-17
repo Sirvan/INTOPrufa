@@ -35,7 +35,9 @@ int main( )
 	do
 	{
 		cout << endl << endl << endl;
-		cout << "                ADALVALMYND " << endl << endl;
+                cout << "            Saelir Kennarar (Sirwan F Majeed)"<< endl;
+		// orlitil breyting vegna verkefnisprufu :-) 
+                cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
 		cout << "                      3. Haetta " << endl << endl;
